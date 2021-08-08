@@ -1,8 +1,12 @@
 # Tim FPI (IF07M)
 Adinda Olivia Ramanuzan - 19102076 (Project Manage)
+
 Tasya Anggar Ari Krisnandi - 19102203 (Analyst)
+
 Aslam Hadil Mantin - 19102152 (Designer)
+
 Iman Ghozali - 19102146 (Programmer 1)
+
 Hikmatus Sholehah - 19102024 (Programmer 2)
 
 # Deskripsi
