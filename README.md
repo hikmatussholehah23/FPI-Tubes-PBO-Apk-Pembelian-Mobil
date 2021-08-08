@@ -19,7 +19,7 @@ Aplikasi Mobas atau Mobil Bekas ini menawarkan beberapa kelebihan, diantaranya
 
 Kelebihan yang ditawarkan adalah pengguna dapat mencari mobil yang sesuai dengan keinginan mereka.
 
-MOBAS menyediakan suatu sistem portal transaksi yang diharapkan dapat membantu pembeli melakukan porses transaksi kepada penjual.
+MOBAS menyediakan suatu sistem portal transaksi yang diharapkan dapat membantu pembeli melakukan proses transaksi kepada penjual.
 
 Dengan adanya MOBAS, diharapkan pembeli dan penjual mendapat solusi untuk kegiatan jual beli mobil bekas yang efektif dan efisien.
 
