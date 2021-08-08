@@ -74,3 +74,59 @@ Dengan adanya MOBAS, diharapkan pembeli dan penjual mendapat solusi untuk kegiat
 
 ![From Faktur](https://user-images.githubusercontent.com/87810663/128623705-6078a21e-24a6-4828-9240-e910f79734c7.JPG)
 
+
+
+
+
+
+
+
+
+
+•	Transaksi
+
+![From Transaksi](https://user-images.githubusercontent.com/87810663/128623778-57c0c8a8-c4de-474a-ad63-3cb293538b32.JPG)
+
+
+
+
+
+
+
+
+
+•	Lihat Mobil
+
+![Daftar Mobil](https://user-images.githubusercontent.com/87810663/128623803-d260c187-a4ef-453b-9906-3aa1b84647ba.JPG)
+
+
+
+
+
+
+
+
+•	Lihat Pembeli
+
+![Daftar Pembeli](https://user-images.githubusercontent.com/87810663/128623808-1d7248ad-dd86-4f52-8c24-c20ec48a1f5b.JPG)
+
+
+
+
+
+
+•	Lihat Faktur
+
+![Daftar Faktur](https://user-images.githubusercontent.com/87810663/128623817-7f72b454-455d-4484-b758-e63452837b94.JPG)
+
+
+
+
+
+
+•	Lihat Transaksi
+
+![From Transaksi](https://user-images.githubusercontent.com/87810663/128623824-6add126f-8162-495f-badd-1aca10133659.JPG)
+
+
+
