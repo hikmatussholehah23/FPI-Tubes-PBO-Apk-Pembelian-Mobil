@@ -1,5 +1,3 @@
-![Penjualan](https://user-images.githubusercontent.com/87810663/128623600-a4cf40f9-c67d-461d-aebd-e1746d6a9747.JPG)
-![Penjualan](https://user-images.githubusercontent.com/87810663/128623604-6da0822a-3bd7-486c-b39f-9a9233a8faa5.JPG)
 # Tim FPI (IF07M)
 Adinda Olivia Ramanuzan - 19102076 (Project Manage)
 
