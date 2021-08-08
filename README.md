@@ -1,3 +1,5 @@
+![Penjualan](https://user-images.githubusercontent.com/87810663/128623600-a4cf40f9-c67d-461d-aebd-e1746d6a9747.JPG)
+![Penjualan](https://user-images.githubusercontent.com/87810663/128623604-6da0822a-3bd7-486c-b39f-9a9233a8faa5.JPG)
 # Tim FPI (IF07M)
 Adinda Olivia Ramanuzan - 19102076 (Project Manage)
 
@@ -36,3 +38,41 @@ Dengan adanya MOBAS, diharapkan pembeli dan penjual mendapat solusi untuk kegiat
 
 
 •	Penjualan
+
+![Penjualan](https://user-images.githubusercontent.com/87810663/128623608-34632195-d5fb-43d1-9329-9a6107754910.JPG)
+
+
+
+
+
+
+
+
+
+
+•	Pembeli
+
+![From Pembeli](https://user-images.githubusercontent.com/87810663/128623656-36152193-bb4f-49ac-a666-8972823b77de.JPG)
+
+
+
+
+
+
+
+
+•	Mobil
+
+![From Mobil](https://user-images.githubusercontent.com/87810663/128623686-c2a339c7-2d2c-4cf2-9fe7-ec4c96b05579.JPG)
+
+
+
+
+
+
+
+
+•	Faktur
+
+![From Faktur](https://user-images.githubusercontent.com/87810663/128623705-6078a21e-24a6-4828-9240-e910f79734c7.JPG)
+
