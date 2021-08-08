@@ -16,3 +16,18 @@ MOBAS menyediakan suatu sistem portal transaksi yang diharapkan dapat membantu p
 Dengan adanya MOBAS, diharapkan pembeli dan penjual mendapat solusi untuk kegiatan jual beli mobil bekas yang efektif dan efisien.
 
 # Overview
+•	Halaman Utama
+
+
+
+
+
+
+•	Login
+
+
+
+
+
+
+•	Penjualan
