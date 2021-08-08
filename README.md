@@ -136,7 +136,8 @@ Dengan adanya MOBAS, diharapkan pembeli dan penjual mendapat solusi untuk kegiat
 
 •	Lihat Transaksi
 
-![From Transaksi](https://user-images.githubusercontent.com/87810663/128623824-6add126f-8162-495f-badd-1aca10133659.JPG)
+![Daftar Transaksi](https://user-images.githubusercontent.com/87810663/128624066-403ef1fe-83fe-4526-b5df-c01f26a7f3ab.JPG)
+
 
 
 
