@@ -17,17 +17,10 @@ Dengan adanya MOBAS, diharapkan pembeli dan penjual mendapat solusi untuk kegiat
 
 # Overview
 •	Halaman Utama
-
-
-
-
-
+![Welcom](https://user-images.githubusercontent.com/87810663/128623523-ddba9f4b-cc92-4f3b-a0d2-08bc74f608ec.JPG)
 
 •	Login
-
-
-
-
+![Login](https://user-images.githubusercontent.com/87810663/128623546-5d584199-41ee-488b-8d05-d738907df6cb.JPG)
 
 
 •	Penjualan
