@@ -10,13 +10,19 @@ Iman Ghozali - 19102146 (Programmer 1)
 
 Hikmatus Sholehah - 19102024 (Programmer 2)
 
+
 # Deskripsi
 
-Dari kelompok kami Aplikasi yang kami buat adalah "Aplikasi Showroom MOBAS"
-Aplikasi Mobas atau Mobil Bekas ini menawarkan beberapa kelebihan.
+Aplikasi yang kelompok kami buat adalah "Aplikasi Showroom MOBAS"
+
+Aplikasi Mobas atau Mobil Bekas ini menawarkan beberapa kelebihan, diantaranya
+
 Kelebihan yang ditawarkan adalah pengguna dapat mencari mobil yang sesuai dengan keinginan mereka.
-MOBAS menyediakan suatu sistem portal transaksi yang diharapkan dapat membantu pembeli melakukan porses transaksi kepada penjual. 
+
+MOBAS menyediakan suatu sistem portal transaksi yang diharapkan dapat membantu pembeli melakukan porses transaksi kepada penjual.
+
 Dengan adanya MOBAS, diharapkan pembeli dan penjual mendapat solusi untuk kegiatan jual beli mobil bekas yang efektif dan efisien.
+
 
 # Overview
 
